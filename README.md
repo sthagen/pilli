@@ -17,6 +17,7 @@ User and developer [documentation of pilli](https://codes.dilettant.life/docs/pi
 ## Bug Tracker
 
 Feature requests and bug reports are bested entered in the [todos of pilli](https://todo.sr.ht/~sthagen/pilli).
+
 ## Primary Source repository
 
 The primary source repository of [pilli is at sourcehut](https://git.sr.ht/~sthagen/pilli)
