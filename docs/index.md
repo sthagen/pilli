@@ -12,7 +12,7 @@ The whistle (Finnish: pilli, German: Der Pfiff) parsing random DAFIF like data.
 
 ## Bug Tracker
 
-Feature requests and bug reports are bested entered in the [todos of pilli](https://todo.sr.ht/~sthagen/pilli).
+Feature requests and bug reports are best entered in the [todos of pilli](https://todo.sr.ht/~sthagen/pilli).
 ## Primary Source repository
 
 The primary source repository of [pilli is at sourcehut](https://git.sr.ht/~sthagen/pilli)
