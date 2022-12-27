@@ -1,8 +1,8 @@
-SHELL = /bin/bash
-
 .DEFAULT_GOAL := all
-isort = isort pilli test
 black = black -S -l 120 --target-version py310 pilli test
+lint = ruff pilli test
+pytest = pytest --asyncio-mode=strict --cov=pilli --cov-report term-missing:skip-covered --cov-branch --log-format="%(levelname)s %(message)s"
+types = mypy pilli
 
 .PHONY: install
 install:
@@ -16,7 +16,7 @@ install-all: install
 
 .PHONY: format
 format:
-	$(isort)
+	$(lint) --fix
 	$(black)
 
 .PHONY: init
@@ -27,17 +27,16 @@ init:
 .PHONY: lint
 lint:
 	python setup.py check -ms
-	flake8 pilli/ test/
-	$(isort) --check-only --df
+	$(lint)
 	$(black) --check --diff
 
 .PHONY: types
 types:
-	mypy pilli
+	$(types)
 
 .PHONY: test
 test: clean
-	pytest --cov=pilli --log-format="%(levelname)s %(message)s" --asyncio-mode=strict
+	$(pytest)
 
 .PHONY: testcov
 testcov: test
