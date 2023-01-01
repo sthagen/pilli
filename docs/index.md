@@ -18,9 +18,9 @@ Feature requests and bug reports are best entered in the [todos of pilli](https:
 
 ## Primary Source repository
 
-The primary source of `pilli` lives somewhere on a mountain in Central Switzerland.
-But, we use decentralized version control (git), so any clone can become the source to everyone's benefit, no central only code.
-Anyway, the preferred public clones of `pilli` are:
+The main source of `pilli` is on a mountain in central Switzerland.
+We use distributed version control (git). No central hub. Each clone can become a new source for the benefit of all.
+The preferred public clones of `pilli` are:
 
 * [on codeberg](https://codeberg.org/sthagen/pilli) - a democratic community-driven, non-profit software development platform operated by Codeberg e.V.
 * [at sourcehut](https://git.sr.ht/~sthagen/pilli) - a collection of tools useful for software development.
