@@ -1,5 +1,4 @@
-# Change History
+# Changes
 
-## 2022.7.28
-
-* Initial release on PyPI
+2022.7.28
+:    * Initial release on PyPI
