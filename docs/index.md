@@ -11,6 +11,7 @@ Third party dependencies are documented in the folder [third-party](third-party/
 [![wheel](https://img.shields.io/pypi/wheel/pilli.svg?style=flat)](https://pypi.python.org/pypi/pilli/)
 [![supported-versions](https://img.shields.io/pypi/pyversions/pilli.svg?style=flat)](https://pypi.python.org/pypi/pilli/)
 [![supported-implementations](https://img.shields.io/pypi/implementation/pilli.svg?style=flat)](https://pypi.python.org/pypi/pilli/)
+[![maintenance-status](https://img.shields.io/github/commit-activity/y/sthagen/pilli.svg?style=flat)](https://git.sr.ht/~sthagen/pilli/log)
 
 ## Bug Tracker
 
