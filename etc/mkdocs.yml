@@ -1,5 +1,7 @@
 site_name: Pilli
 site_description: "The whistle (Finnish: pilli, German: Der Pfiff) parsing random DAFIF like data."
+docs_dir: ../docs
+site_dir: ../site
 
 theme:
   name: 'material'
