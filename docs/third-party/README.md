@@ -1,8 +1,8 @@
 # Third Party Dependencies
 
 <!--[[[fill sbom_sha256()]]]-->
-The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/pilli/blob/default/etc/sbom/cdx.json) with SHA256 checksum ([8c09b901 ...](https://git.sr.ht/~sthagen/pilli/blob/default/etc/sbom/cdx.json.sha256 "sha256:8c09b901e76acf16b1aa06b0ba4d8b56ae72cb931805b63f0a6f0518c3ae3e61")).
-<!--[[[end]]] (checksum: b35ac7da75ee1b0d6264f84d5234bc99)-->
+The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/pilli/blob/default/etc/sbom/cdx.json) with SHA256 checksum ([876918d0 ...](https://git.sr.ht/~sthagen/pilli/blob/default/etc/sbom/cdx.json.sha256 "sha256:876918d09e8bbc5a7b04107dab505a90f217e22187edb675920867341948e061")).
+<!--[[[end]]] (checksum: 1cc1a41792cce5256868fe0b2c01c444)-->
 ## Licenses 
 
 JSON files with complete license info of: [direct dependencies](direct-dependency-licenses.json) | [all dependencies](all-dependency-licenses.json)
@@ -12,9 +12,9 @@ JSON files with complete license info of: [direct dependencies](direct-dependenc
 <!--[[[fill direct_dependencies_table()]]]-->
 | Name                                             | Version                                         | License     | Author                                                              | Description (from packaging data)                                  |
 |:-------------------------------------------------|:------------------------------------------------|:------------|:--------------------------------------------------------------------|:-------------------------------------------------------------------|
-| [scooby](https://github.com/banesullivan/scooby) | [0.8.0](https://pypi.org/project/scooby/0.8.0/) | MIT License | Dieter Werthmüller, Bane Sullivan, Alex Kaszynski, and contributors | A Great Dane turned Python environment detective                   |
+| [scooby](https://github.com/banesullivan/scooby) | [0.9.2](https://pypi.org/project/scooby/0.9.2/) | MIT License | Dieter Werthmüller, Bane Sullivan, Alex Kaszynski, and contributors | A Great Dane turned Python environment detective                   |
 | [typer](https://github.com/tiangolo/typer)       | [0.9.0](https://pypi.org/project/typer/0.9.0/)  | MIT License | Sebastián Ramírez                                                   | Typer, build great CLIs. Easy to code. Based on Python type hints. |
-<!--[[[end]]] (checksum: c596aafb08a292f7306d48fa112297cf)-->
+<!--[[[end]]] (checksum: 9daf881d3a72a1c5292c25171bae8bf6)-->
 
 ### Indirect Dependencies
 
@@ -39,9 +39,9 @@ Base graphviz file in dot format: [Trees of the direct dependencies](package-dep
 
 <!--[[[fill dependency_tree_console_text()]]]-->
 ````console
-scooby==0.8.0
+scooby==0.9.2
 typer==0.9.0
 ├── click [required: >=7.1.1,<9.0.0, installed: 8.1.5]
 └── typing-extensions [required: >=3.7.4.3, installed: 4.7.1]
 ````
-<!--[[[end]]] (checksum: 778686f4710ca9b839b407034aefa783)-->
+<!--[[[end]]] (checksum: c8c96a994e9f13090485581fb9d6ab5c)-->
