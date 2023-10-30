@@ -8,7 +8,7 @@ The whistle (Finnish: pilli, German: Der Pfiff) parsing random DAFIF like data.
 [![Configuration](badges/configuration-sbom.svg)](third-party/index.html)
 
 [![Version](https://img.shields.io/pypi/v/pilli.svg?style=flat)](https://pypi.python.org/pypi/pilli/)
-[![Downloads](https://static.pepy.tech/badge/pilli/month)](https://pepy.tech/project/pilli)
+[![Downloads](docs/badges/downloads-per-month.svg)](https://pepy.tech/project/pilli)
 [![Supported Versions](https://img.shields.io/pypi/pyversions/pilli.svg?style=flat)](https://pypi.python.org/pypi/pilli/)
 [![Maintenance Status](docs/badges/commits-per-year.svg)](https://git.sr.ht/~sthagen/pilli/log)
 
