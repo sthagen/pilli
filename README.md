@@ -7,7 +7,7 @@ The whistle (Finnish: pilli, German: Der Pfiff) parsing random DAFIF like data.
 [![Export Classification Control Number (ECCN)](docs/badges/export-control-classification-number_eccn-ear99-neutral.svg)](https://git.sr.ht/~sthagen/pilli/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
 [![Configuration](docs/badges/configuration-sbom.svg)](https://git.sr.ht/~sthagen/pilli/tree/default/item/docs/third-party/README.md)
 
-[![Version](https://img.shields.io/pypi/v/pilli.svg?style=flat)](https://pypi.python.org/pypi/pilli/)
+[![Version](docs/badges/latest-release.svg)](https://pypi.python.org/pypi/pilli/)
 [![Downloads](docs/badges/downloads-per-month.svg)](https://pepy.tech/project/pilli)
 [![Supported Versions](https://img.shields.io/pypi/pyversions/pilli.svg?style=flat)](https://pypi.python.org/pypi/pilli/)
 [![Maintenance Status](docs/badges/commits-per-year.svg)](https://git.sr.ht/~sthagen/pilli/log)
