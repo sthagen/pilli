@@ -1,7 +1,7 @@
 {
   "pilli": {
-    "version": "7.3.2",
-    "timestamp": "2023-12-02T15:30:29.553828",
+    "coverage_tool_version": "7.3.2",
+    "timestamp": "2023-12-02 16:27:52 +00:00",
     "branch_coverage": true,
     "show_contexts": true,
     "covered_lines": 19,
@@ -13,6 +13,25 @@
     "num_branches": 2,
     "num_partial_branches": 0,
     "covered_branches": 2,
-    "missing_branches": 0
+    "missing_branches": 0,
+    "node_id": "c79891e5-aabf-3a83-95b9-588edcd8327f",
+    "nfiles": 6,
+    "files": [
+      "pilli/__init__.py",
+      "pilli/cli.py",
+      "pilli/fields.py",
+      "pilli/pilli.py",
+      "pilli/tables.py",
+      "pilli/types.py"
+    ],
+    "blake3": "fcc5941cb5a5c1f6bb1249b46e9e54a1249bee0d3c748348985e3abefdfec165",
+    "blake2": "e1edc272503fcb04aed878c9d389123c3cb4d435cf9fcfe04593b60707f419b8c356316525f75cad153b571de914fa9834b03d1148177094075f7c567673fcf2",
+    "sha512": "f2fc9e2d942e9b6d9869e96c1f87991a9beea7a9fe576a6e0c877018efaf3e13023c9935e7d2276ff40527385c0e1fe85062c925efc60d09e4e809c5f28952ea",
+    "sha384": "457f1f504f768c63b8342760f1403a5a10272bb58a91678f4271d55caffac1e120abbdacab67822c5faf122bd867beca",
+    "sha256": "963a64ec681abc3d142a13b6255de952dcea9eb4a6af520ec1eb04049f95937e",
+    "sha1": "30dcdec7b74cf85477d93f4cfa7a95696f4da979",
+    "md5": "33c444e6ba82056999eead521eed9f4d",
+    "python_version": "3.10.12",
+    "entropy": 5.525305
   }
 }
