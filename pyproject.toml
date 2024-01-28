@@ -7,6 +7,7 @@ name = "pilli"
 version = "2022.7.28"
 description = "The whistle (Finnish: pilli, German: Der Pfiff) parsing random DAFIF like data."
 readme = "README.md"
+license = {file = "LICENSE"}
 authors = [{ name = "Stefan Hagen", email = "stefan@hagen.link" }]
 maintainers = [{ name = "Stefan Hagen", email = "stefan@hagen.link" }]
 classifiers = [
