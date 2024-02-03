@@ -1,4 +1,5 @@
 """The whistle (Finnish: pilli, German: Der Pfiff) parsing random DAFIF like data."""
+
 import os
 import pathlib
 from typing import List
