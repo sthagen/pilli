@@ -1,25 +1,37 @@
 {
   "total": {
-    "commits": 2893,
+    "commits": 2896,
     "first_committed_at": "2022-07-28T14:39:19+00:00",
-    "last_committed_at": "2024-12-30T17:04:01+00:00",
-    "month_span_day_count": 886,
-    "year_span": 2.4273972602739726,
+    "last_committed_at": "2025-01-01T00:49:03+00:00",
+    "month_span_day_count": 887,
+    "year_span": 2.43013698630137,
     "commits_per_year": 1191,
-    "insertions_per_year": 10060.569977426636,
-    "deletions_per_year": 4199.559819413093,
-    "lines_per_year": 14260.129796839728,
-    "files_per_year": 1276.676072234763,
-    "insertions_count": 24421,
-    "deletions_count": 10194,
-    "lines_count": 34615,
-    "files_count": 3099,
-    "insertions_avg": 8.44141030072589,
-    "deletions_avg": 3.523677843069478,
-    "lines_avg": 11.965088143795368,
-    "files_avg": 1.0712063601797441
+    "insertions_per_year": 10054.98872604284,
+    "deletions_per_year": 4200.586245772266,
+    "lines_per_year": 14255.574971815106,
+    "files_per_year": 1276.4712514092446,
+    "insertions_count": 24435,
+    "deletions_count": 10208,
+    "lines_count": 34643,
+    "files_count": 3102,
+    "insertions_avg": 8.4375,
+    "deletions_avg": 3.5248618784530388,
+    "lines_avg": 11.962361878453038,
+    "files_avg": 1.0711325966850829
   },
   "commit_stats": {
+    "2025-01-01T00:49:03+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2024-12-31T10:43:54+00:00": {
+      "insertions": 13,
+      "deletions": 13,
+      "lines": 26,
+      "files": 2
+    },
     "2024-12-30T17:04:01+00:00": {
       "insertions": 1,
       "deletions": 1,
@@ -19958,6 +19970,20 @@
       "deletions": 35,
       "lines": 50,
       "files": 4
+    },
+    "2024-12-31": {
+      "commits": 1,
+      "insertions": 13,
+      "deletions": 13,
+      "lines": 26,
+      "files": 2
+    },
+    "2025-01-01": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
     }
   }
 }
